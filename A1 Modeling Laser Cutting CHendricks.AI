@@ -1,0 +1,93 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (A1 Modeling Laser Cutting CHendricks.AI)
+%%BoundingBox: 122 322 276 477
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+209.7416 323.8351 m
+208.2795 323.8351 207.0942 325.0204 207.0942 326.4825 c
+207.0942 330.3292 207.0942 334.1759 207.0942 338.0226 c
+207.0942 339.4847 205.9089 340.6700 204.4467 340.6700 c
+202.6818 340.6700 200.9168 340.6700 199.1519 340.6700 c
+197.6897 340.6700 196.5044 339.4847 196.5044 338.0226 c
+196.5044 334.1759 196.5044 330.3292 196.5044 326.4825 c
+196.5044 325.0204 195.3191 323.8351 193.8570 323.8351 c
+170.2946 323.8351 146.7321 323.8351 123.1697 323.8351 c
+123.1697 345.8967 123.1697 367.9584 123.1697 390.0200 c
+123.1697 391.4821 124.3550 392.6674 125.8171 392.6674 c
+129.6638 392.6674 133.5105 392.6674 137.3572 392.6674 c
+138.8193 392.6674 140.0046 393.8527 140.0046 395.3149 c
+140.0046 397.0798 140.0046 398.8448 140.0046 400.6097 c
+140.0046 402.0719 138.8193 403.2572 137.3572 403.2572 c
+133.5105 403.2572 129.6638 403.2572 125.8171 403.2572 c
+124.3550 403.2572 123.1697 404.4425 123.1697 405.9046 c
+123.1697 429.4670 123.1697 453.0295 123.1697 476.5919 c
+145.2313 476.5919 167.2930 476.5919 189.3546 476.5919 c
+190.8167 476.5919 192.0020 475.4066 192.0020 473.9445 c
+192.0020 470.0978 192.0020 466.2511 192.0020 462.4045 c
+192.0020 460.9423 193.1873 459.7570 194.6495 459.7570 c
+196.4144 459.7570 198.1794 459.7570 199.9443 459.7570 c
+201.4065 459.7570 202.5918 460.9423 202.5918 462.4045 c
+202.5918 466.2511 202.5918 470.0978 202.5918 473.9445 c
+202.5918 475.4066 203.7771 476.5919 205.2392 476.5919 c
+228.8016 476.5919 252.3641 476.5919 275.9265 476.5919 c
+275.9265 454.5303 275.9265 432.4687 275.9265 410.4070 c
+275.9265 408.9449 274.7412 407.7596 273.2791 407.7596 c
+269.4324 407.7596 265.5857 407.7596 261.7390 407.7596 c
+260.2769 407.7596 259.0916 406.5743 259.0916 405.1122 c
+259.0916 403.3472 259.0916 401.5822 259.0916 399.8173 c
+259.0916 398.3551 260.2769 397.1699 261.7390 397.1699 c
+265.5857 397.1699 269.4324 397.1699 273.2791 397.1699 c
+274.7412 397.1699 275.9265 395.9846 275.9265 394.5224 c
+275.9265 370.9600 275.9265 347.3975 275.9265 323.8351 c
+253.8649 323.8351 231.8032 323.8351 209.7416 323.8351 C
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
