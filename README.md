@@ -1,2 +1,2 @@
 # hcde533
-This a repository for HCDE 533 Digital Fabrication which will feature project files for 8 assignments. 
+This is a repository for HCDE 533 Digital Fabrication featuring all of my project files for a variety of assignments. 
