@@ -14,16 +14,16 @@
         <div class="header">
             <h1>Courtenay's Assignment 4</h1>
             <p>
-            <img src="a4-iteration2-box-pieces-print1.jpg" width=300></a>
+            <img src="a5-inspiration1.png" width=300></a>
             </p>
             <p> 
-             For this project, my goal was to design a box made up of flat panels with fingerjoints. I 3D printed all of the box panels to design for an interference fit so that when the panels are pressed together, they join tightly and do not need additional fasteners or screws. 
-             The challenge was to design a close enough fit that the resulting box could hold something like sugar without leaking.<br><br>   
-                
-             With direct support from our wonderful teaching assistant, Junchao, I learned how to create a box model using Rhino. I admittedly had some challenges with visualizing how to design the panels using a joining method, and Junchao modeled this initial design to show how to use dogbones:<br><br>
-             <img src="a4-rhino-cnc-mill-model.jpg" width=300></a><br>
-             <img src="a4-rhino-cnc-mill-artistic.jpg" width=300></a><br><br>
-
-             While looking around for more inspiration, I noticed this old-fashinoned coffee box with finger joints in the display case of a local coffee shop, and I decided to use it as a jumping off point for my own model:<br><br>
-             <img src="a4-box-inspiration1.jpg" width=300></a><br>
-             <img src="a4-box-inspiration2.jpg" width=300></a><br><br>
+            This two-week project involves the following two parts: 
+            Part 1: Modify the mesh of two STLs to produce a single printable STL. For online inspiration, start by visiting Thingiverse or a comparable site to look closed meshes that I could play with for experimentation purposes. Once I create a new mesh, before exporting the STL from Rhino, I need to confirm that it passed all checks for rapid prototyping.<br>
+            Part 2: In part 2, I'll start making a lamp using the measurments from my lamp innereds' as a point of departure. My goal is to make a lamp that can be assembled around the innereds using a variety a digital fabrication techniques.<br><br>   
+            
+            As a first step, I looked outside in the natural world for inspiration on color and texture to consider for my overall design. On a visit to my local park, I came across these beutiful fall colors and textures on a walk:<br><br>
+             <img src="a5-inspiration2.png" width=300></a><br>
+             <img src="a5-inspiration4.png" width=300></a><br><br>
+             <img src="a5-inspiration5.png" width=300></a><br><br>
+             
+             </div>
