@@ -18,22 +18,27 @@
             </p>
             <p> 
             This project involved 2 parts:<br><br>
-            Part 1: Mesh exploration: I experimented with modifying the mesh of two STLs to produce a single, printable STL. For online inspiration, I started by visiting Makerbot Thingiverse to look for examples of other peoples' creations, e.g., STLs and interesting closed meshes. I found this "rocktupus" mesh (a hilarious idea inspired by "rock n roll" and "octupus") and imported the STL into Rhino 7.<br><br>
+            Part 1: Mesh exploration: I experimented with modifying the mesh of two STLs to produce a single, printable STL. For online inspiration, I started by visiting the <a href="https://www.talkstorybookstore.com/">Makerbot Thingiverse</a> website to look for examples of other peoples' creations, e.g., STLs and interesting closed meshes. I found this "rocktupus" mesh (an hilarious concept seemingly inspired by rock n roll and the octupus!) I imported the STL into Rhino 7 and started exploring it.<br><br>
            
-            Next, I took the original STL (a closed mesh to start with), scaled it down in 3D, then ran the reducemesh command, then quadremesh (my intention was to make it more low poly and smooth it out before duplicating it so that I would have two meshes to play with). Next, I duplicated the quadremeshed rocktupus and moved the two meshes next to each other, intersecting their tentacles as if they were holding hands.<br>br>
+            Next, with the original STL (a closed mesh to start with), I scaled it down in 3D, ran the reducemesh command on it, then ran quadremesh (my intention was to make it more low poly and smooth it out before duplicating it so that I would have two meshes to play with). Next, I duplicated the quadremeshed rocktupus and horizontally aligned the two meshes next to each other, intersecting their tentacles as if they were naturally holding hands.<br>br>
             <img src="a5-pic-octupi-reduced-quadremesh.png" width=300></a><br><br>
 
-            In order to produce a single STL out of these two meshes, at first I thought I could 
-            <img src="a5-left-leaf-closed-mesh.png" width=300></a><br><br>
-                
-            <img src="a5-thingaverse-leaf-lamp-inspiration.png" width=300></a><br>
-            <img src="a5-left-leaf-closed-mesh.png" width=300></a><br><br>
-            Part 2: Lamp creation: Using measurements of the lamp innards that I purchased on Amazon.com as a point of departure, I set out to create a lamp that can be assembled around the lamp's innards using a variety a digital fabrication techniques.<br><br>   
+            In order to produce a single STL out of these two meshes, at first I tried simply running the booleanunion command. However, I quickly realized that this may not be the correct command because I couldn't select either mesh in my Rhino viewport! I asked my classmates for any troubleshooting tips they could offer, and one student (thanks JessieZ!) suggested trying the meshbooleanunion command instead. It worked! I was able to join the two meshes for further iteration on the rocktupus idea and export the new mesh as a single. printable STL.<br><br>
+            <img src="a5-pic-octupi-meshbooleanunion.png" width=300></a><br><br>
+            STL here<br><br>
+           
+            Caveat: for part 2 of this project, I took a SHARP pivot away from the digital, meshy rocktupus and looked outside for inspiration while thinking about my lamp design!<br><br> 
+            Part 2: Lamp creation: Using measurements of some lamp "innards" that I purchased on Amazon.com as a point of departure, I set out to create a lamp that could be assembled around the lamp's innards using a variety a digital fabrication techniques.<br><br>
             <img src="a5-lamp-innards.jpg" width=300></a><br><br>
                 
-            As part of the ideation process, I looked outside to the natural world for color and texture inspiration and documented some ideas to consider incorporating into my overall design. On a walkabout in a local park in the Pacific Northwest of the U.S., I came across these vibrant fall colors and intriguing textures:<br><br>
+             While looking out the window, I observed how the sunlight was shining through the leaves in this Japanese Maple. I went out to take a photo from another angle and to forage some of the leaves for further discovery.<br><br>
+             During my ideation process, I spent some more time in nature looking for further color and texture inspiration and documented some ideas to consider incorporating into my design. On a walkabout at a local park in the U.S. Pacific Northwest, I came across these vibrant fall colors and intriguing textures:<br><br>
              <img src="a5-inspiration2.jpg" width=300></a><br>
              <img src="a5-inspiration4.jpg" width=300></a><br>
              <img src="a5-inspiration5.jpg" width=300></a><br><br>
+
+            Then, I returned to the web and looked for some leafy lamp designs for further inspiration. I found this one and decided to explore it further:
+            <img src="a5-thingaverse-leaf-lamp-inspiration.png" width=300></a><br>
+            <img src="a5-left-leaf-closed-mesh.png" width=300></a><br><br>
              
              </div>
